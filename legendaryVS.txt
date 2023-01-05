@@ -1,0 +1,2 @@
+copy	Shift+Alt+up/down 
+delete	Ctrl+Shift+k
